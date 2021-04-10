@@ -1,0 +1,14 @@
+Permite cambiar los permisos de un archivo / directorio (en permisos deben ir 3 para los 3 niveles.
+NIVELES
+Owner (propietario): Aquel que genera/crea un archivo/ carpeta sobre el que tenga derechos.
+Group (grupo): Aquel fromado por varios usuarios.
+Other (otros):Aquel que no es propietario y no pertenece a un grupo.
+
+PERMISOS
+Lectura 4: Permite visualizar el contenido
+Escritura 2: Permite crear / eliminar el contenido, también se pueden modificar los permisos del archivo.
+Ejecución 1:Permite ejecutar el contenido del archivo
+
+Ej. Dar los 3 permisos a los 3 usuarios
+
+chmod 777 nombreArchivo
