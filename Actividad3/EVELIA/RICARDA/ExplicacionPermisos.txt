@@ -1,7 +1,7 @@
 Permite cambiar los permisos de un archivo / directorio (en permisos deben ir 3 para los 3 niveles.
 NIVELES
 Owner (propietario): Aquel que genera/crea un archivo/ carpeta sobre el que tenga derechos.
-Group (grupo): Aquel fromado por varios usuarios.
+Group (grupo): Aquel formado por varios usuarios.
 Other (otros):Aquel que no es propietario y no pertenece a un grupo.
 
 PERMISOS

@@ -1,0 +1,5 @@
+NIVELES
+
+Propietario: Aquel que genera/ crea un archivo/carpeta sobre el que tenga derechos
+Grupo: Aquel formado por varios usuarios
+Otros: Aquel que no es propietario y no pertenece a un grupo
